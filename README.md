@@ -71,69 +71,66 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
 ### NeurIPS 2021
 
-1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
+1. **[[XX'21]](https://openreview.net/forum?id=MDMV2SxCboX)** Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning. NeurIPS 2021. 
 
-    *x* 
+    *Colin Wei, Sang Michael Xie, Tengyu Ma.* 
 
-1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
+1. **[[Core-tuning'21]](https://openreview.net/forum?id=LY6qkvd71Td)** Unleashing the Power of Contrastive Self-Supervised Visual Models via Contrast-Regularized Fine-Tuning. NeurIPS 2021. [[code](https://github.com/Vanint/Core-tuning)] 
 
-    *x* 
+    *Yifan Zhang, Bryan Hooi, Dapeng Hu, Jian Liang, Jiashi Feng.* 
 
-1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
+1. **[[XX'21]](https://openreview.net/forum?id=4HDwT8l12UK)** How Fine-Tuning Allows for Effective Meta-Learning. NeurIPS 2021. 
 
-    *x* 
+    *Kurtland Chua, Qi Lei, Jason D. Lee.* 
 
-1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
+1. **[[FEMNIST'21]](https://openreview.net/forum?id=p99rWde9fVJ)** Federated Hyperparameter Tuning: Challenges, Baselines, and Connections to Weight-Sharing. NeurIPS 2021. [[code](https://github.com/mkhodak/fedex)] 
 
-    *x* 
+    *Mikhail Khodak, Renbo Tu, Tian Li, Liam Li, Nina Balcan, Virginia Smith, Ameet Talwalkar.* 
 
-1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
+1. **[[XX'21]](https://openreview.net/forum?id=pl2WX3riyiq)** How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness? NeurIPS 2021.
 
-    *x* 
+    *Xinshuai Dong, Anh Tuan Luu, Min Lin, Shuicheng Yan, Hanwang Zhang.* 
 
-1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
+1. **[[RSL'21]](https://openreview.net/forum?id=QX32YlxrQJc)** Improved Regularization and Robustness for Fine-tuning in Neural Networks. NeurIPS 2021. [[code](https://github.com/NEU-StatsML-Research/Regularized-Self-Labeling)] 
 
-    *x* 
+    *Dongyue Li, Hongyang Zhang.* 
 
-1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
+1. **[[AdvCL]](https://openreview.net/forum?id=70kOIgjKhbA)** When does Contrastive Learning Preserve Adversarial Robustness from Pretraining to Finetuning? NeurIPS 2021. 
 
-    *x* 
+    *Lijie Fan, Sijia Liu, Pin-Yu Chen, Gaoyuan Zhang, Chuang Gan.* 
 
-1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
+1. **[[XX'21]](https://openreview.net/forum?id=DyE8hmj2dse)** A Theoretical Analysis of Fine-tuning with Linear Teachers. NeurIPS 2021. 
 
-    *x* 
+    *Gal Shachaf, Alon Brutzkus, Amir Globerson.* 
 
-1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
-
-    *x* 
 
 
 
 ### ICLR 2022
 
-1. **[[]]()** x. ICLR 2022. [[code](x)] 
+1. **[[flan'22]](https://openreview.net/pdf?id=gEZrGCozdqR)** Finetuned Language Models are Zero-Shot Learners. ICLR 2022. [[code](https://github.com/google-research/flan)] 
 
-    *x* 
+    *Jason Wei, Maarten Bosma, Vincent Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Andrew_M._Dai1, Quoc V Le.* 
 
-1. **[[]]()** x. ICLR 2022. [[code](x)] 
+1. **[[LP-FT'22]](https://openreview.net/pdf?id=UYneFzXSJWh)** Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution. ICLR 2022. 
 
-    *x* 
+    *Ananya Kumar, Aditi Raghunathan, Robbie Matthew Jones, Tengyu Ma, Percy Liang.* 
 
-1. **[[]]()** x. ICLR 2022. [[code](x)] 
+1. **[[XX'22]](https://openreview.net/forum?id=Q42f0dfjECO)** Differentially Private Fine-tuning of Language Models. ICLR 2022. [[code](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models)] 
 
-    *x* 
+    *Da Yu, Saurabh Naik, Arturs Backurs, Sivakanth Gopi, Huseyin A Inan, Gautam Kamath, Janardhan Kulkarni, Yin Tat Lee, Andre Manoel, Lukas Wutschitz, Sergey Yekhanin, Huishuai Zhang.* 
 
-1. **[[]]()** x. ICLR 2022. [[code](x)] 
+1. **[[]](https://openreview.net/forum?id=f2OYVDyfIB)** Scale Efficiently: Insights from Pretraining and Finetuning Transformers. ICLR 2022. 
 
-    *x* 
+    *Yi Tay, Mostafa Dehghani, Jinfeng Rao, William Fedus, Samira Abnar, Hyung Won Chung, Sharan Narang, Dani Yogatama, Ashish Vaswani, Donald Metzler.* 
 
-1. **[[]]()** x. ICLR 2022. [[code](x)] 
+1. **[[RPT'22]](https://openreview.net/forum?id=eBCmOocUejf)** On Robust Prefix-Tuning for Text Classification. ICLR 2022. [[code](https://github.com/minicheshire/Robust-Prefix-Tuning)] 
 
-    *x* 
+    *Zonghan Yang, Yang Liu.* 
 
-1. **[[]]()** x. ICLR 2022. [[code](x)] 
+1. **[[lfll'22]](https://openreview.net/pdf?id=HCRVf71PMF)** LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5. ICLR 2022. [[code](https://github.com/qcwthu/Lifelong-Fewshot-Language-Learning)] 
 
-    *x* 
+    *Chengwei Qin, Shafiq Joty.* 
 
 
 
@@ -145,11 +142,11 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
 1. **[[Model soups'22]](https://proceedings.mlr.press/v162/wortsman22a.html)** Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time. ICML 2022. [[code](https://github.com/mlfoundations/model-soups)]
 
-    *Mitchell Wortsman 1 Gabriel Ilharco 1 Samir Yitzhak Gadre 2 Rebecca Roelofs 3 Raphael Gontijo-Lopes Ari S. Morcos 4 Hongseok Namkoong 2 Ali Farhadi 1 Yair Carmon * 5 Simon Kornblith * 3 Ludwig Schmidt * 1* 
+    *Mitchell Wortsman Gabriel Ilharco Samir Yitzhak Gadre Rebecca Roelofs Raphael Gontijo-Lopes Ari S. Morcos 4 Hongseok Namkoong Ali Farhadi Yair Carmon Simon Kornblith Ludwig Schmidt* 
 
 1. **[[BBT'22]](https://proceedings.mlr.press/v162/sun22e.html)** Black-Box Tuning for Language-Model-as-a-Service. ICML 2022. [[code](https://github.com/txsun1997/Black-Box-Tuning)] [[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/ef575e8837d065a1683c022d2077d342_GbkiyvM.png)] 
 
-    *Tianxiang Sun, Yunfan Shao, Hong Qian, Xuanjing Huang, Xipeng Qiu * 
+    *Tianxiang Sun, Yunfan Shao, Hong Qian, Xuanjing Huang, Xipeng Qiu*
 
 1. **[[XX'22]](https://proceedings.mlr.press/v162/ju22a.html)** Robust Fine-Tuning of Deep Neural Networks with Hessian-based Generalization Guarantees. ICML 2022. 
 
