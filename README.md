@@ -139,19 +139,19 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
 ### ICML 2022
 
-1. **[[]]()** x. ICML 2022. [[code](x)] 
+1. **[[PGC'22]](http://proceedings.mlr.press/v139/wang21g.html)** Self-Tuning for Data-Efficient Deep Learning. ICML 2022. [[code](https://github.com/thuml/Self-Tuning)]  [[Slides](https://icml.cc/media/icml-2021/Slides/8615.pdf)] 
+
+    *Ximei Wang · Jinghan Gao · Mingsheng Long · Jianmin Wang.* 
+
+1. **[[]]()** x. ICML 2022. [[code](x)] [[Slides](x)] 
 
     *x* 
 
-1. **[[]]()** x. ICML 2022. [[code](x)] 
+1. **[[]]()** x. ICML 2022. [[code](x)] [[Slides](x)] 
 
     *x* 
 
-1. **[[]]()** x. ICML 2022. [[code](x)] 
-
-    *x* 
-
-1. **[[]]()** x. ICML 2022. [[code](x)] 
+1. **[[]]()** x. ICML 2022. [[code](x)] [[Slides](x)] 
 
     *x* 
 
