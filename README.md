@@ -155,6 +155,10 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
     *Haotian Ju, Dongyue Li, Hongyang R Zhang.* 
 
+1. **[[TLM'22]](https://proceedings.mlr.press/v162/yao22c.html)** NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework. ICML 2022. [[code](https://github.com/yaoxingcheng/TLM)] [[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/05311655a15b75fab86956663e1819cd_0njXElx.png)]
+
+    *Xingcheng Yao, Yanan Zheng, Xiaocong Yang, Zhilin Yang.* 
+
 
 
 ### NeurIPS 2022 (TBD)
