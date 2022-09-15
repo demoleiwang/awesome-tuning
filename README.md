@@ -63,9 +63,9 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
     *Yang Shu · Zhi Kou · Zhangjie Cao · Jianmin Wang · Mingsheng Long.* 
 
-1. **[[]]()** x. ICML 2021. [[code](x)] 
+1. **[[CFT'21]](http://proceedings.mlr.press/v139/xie21f.html)** Composed Fine-Tuning: Freezing Pre-Trained Denoising Autoencoders for Improved Generalization. ICML 2021.  [[Slides](https://icml.cc/media/icml-2021/Slides/10589.pdf)]
 
-    *x* 
+    *Sang Michael Xie · Tengyu Ma · Percy Liang.* 
 
 
 
