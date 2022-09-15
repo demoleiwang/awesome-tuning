@@ -59,9 +59,9 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
 ### ICML 2021
 
-1. **[[]]()** x. ICML 2021. [[code](x)] 
+1. **[[Zoo-Tuning'21]](http://proceedings.mlr.press/v139/shu21b.html)** Zoo-Tuning: Adaptive Transfer from A Zoo of Models. ICML 2021. [[Slides]](https://icml.cc/media/icml-2021/Slides/9887.pdf)
 
-    *x* 
+    *Yang Shu · Zhi Kou · Zhangjie Cao · Jianmin Wang · Mingsheng Long.* 
 
 1. **[[]]()** x. ICML 2021. [[code](x)] 
 
