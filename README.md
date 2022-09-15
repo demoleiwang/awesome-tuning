@@ -143,17 +143,17 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
     *Ximei Wang · Jinghan Gao · Mingsheng Long · Jianmin Wang.* 
 
-1. **[[]]()** x. ICML 2022. [[code](x)] [[Slides](x)] 
+1. **[[Model soups'22]](https://proceedings.mlr.press/v162/wortsman22a.html)** Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time. ICML 2022. [[code](https://github.com/mlfoundations/model-soups)]
 
-    *x* 
+    *Mitchell Wortsman 1 Gabriel Ilharco 1 Samir Yitzhak Gadre 2 Rebecca Roelofs 3 Raphael Gontijo-Lopes Ari S. Morcos 4 Hongseok Namkoong 2 Ali Farhadi 1 Yair Carmon * 5 Simon Kornblith * 3 Ludwig Schmidt * 1* 
 
-1. **[[]]()** x. ICML 2022. [[code](x)] [[Slides](x)] 
+1. **[[BBT'22]](https://proceedings.mlr.press/v162/sun22e.html)** Black-Box Tuning for Language-Model-as-a-Service. ICML 2022. [[code](https://github.com/txsun1997/Black-Box-Tuning)] [[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/ef575e8837d065a1683c022d2077d342_GbkiyvM.png)] 
 
-    *x* 
+    *Tianxiang Sun, Yunfan Shao, Hong Qian, Xuanjing Huang, Xipeng Qiu * 
 
-1. **[[]]()** x. ICML 2022. [[code](x)] [[Slides](x)] 
+1. **[[XX'22]](https://proceedings.mlr.press/v162/ju22a.html)** Robust Fine-Tuning of Deep Neural Networks with Hessian-based Generalization Guarantees. ICML 2022. 
 
-    *x* 
+    *Haotian Ju, Dongyue Li, Hongyang R Zhang.* 
 
 
 
