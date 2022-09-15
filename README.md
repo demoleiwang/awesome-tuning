@@ -29,14 +29,14 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
     *Kaichao You, Zhi Kou, Mingsheng Long, Jianmin Wang.* 
 
-1. **[[Movement Pruning'20]](https://proceedings.neurips.cc/paper/2020/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf)** Movement Pruning: Adaptive Sparsity by Fine-Tuning. NeurIPS 2020. [[code](x)] 
+1. **[[Movement Pruning'20]](https://proceedings.neurips.cc/paper/2020/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf)** Movement Pruning: Adaptive Sparsity by Fine-Tuning. NeurIPS 2020. 
 
     *Victor Sanh, Thomas Wolf, Alexander Rush.* 
 
 
 ### ICLR 2021
 
-1. **[[Bert-stable-fine-tuning'21]](https://openreview.net/forum?id=nzpLWnVAyah)** On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines. ICLR 2021. [[code](github uds-lsv/bert-stable-fine-tuning)] [[Slides]](https://iclr.cc/media/iclr-2021/Slides/2558.pdf)
+1. **[[Bert-stable-fine-tuning'21]](https://openreview.net/forum?id=nzpLWnVAyah)** On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines. ICLR 2021. [[code](https://github.com/uds-lsv/bert-stable-fine-tuning)] [[Slides]](https://iclr.cc/media/iclr-2021/Slides/2558.pdf)
 
     *Marius Mosbach, Maksym Andriushchenko, Dietrich Klakow.* 
 
@@ -44,11 +44,11 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
     *Armen Aghajanyan · Akshat Shrivastava · Anchit Gupta · Naman Goyal · Luke Zettlemoyer · Sonal Gupta.* 
 
-1. **[[SCL-FT'21]](https://openreview.net/forum?id=cu7IUiOhujH)** Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning. ICLR 2021. [[code](x)] 
+1. **[[SCL-FT'21]](https://openreview.net/forum?id=cu7IUiOhujH)** Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning. ICLR 2021.
 
     *Beliz Gunel · Jingfei Du · Alexis Conneau · Veselin Stoyanov.* 
 
-1. **[[VIBERT'21]](https://openreview.net/forum?id=kvhzKz-_DMF)** Variational Information Bottleneck for Effective Low-Resource Fine-Tuning. ICLR 2021. [[code](github rabeehk/vibert)] 
+1. **[[VIBERT'21]](https://openreview.net/forum?id=kvhzKz-_DMF)** Variational Information Bottleneck for Effective Low-Resource Fine-Tuning. ICLR 2021. [[code](https://github.com/rabeehk/vibert)] 
 
     *Rabeeh Karimi Mahabadi · Yonatan Belinkov · James Henderson.* 
 
