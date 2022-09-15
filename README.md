@@ -3,7 +3,7 @@
 This repo is a collection of AWESOME things about tuning methods and pretraining-free methods, including papers, code, etc.
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-30-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-31-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 1. **[[]]()** x. x. [[code](x)] 
