@@ -1,9 +1,9 @@
 # awesome-tuning
 
-This repo is a collection of AWESOME things about tuning methods and pretraining-free methods, including papers, code, etc. Feel free to star and fork. We borrow a lot from [openmixup](https://github.com/Westlake-AI/openmixup), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation), and [PromptPapers](https://github.com/thunlp/PromptPapers).
+This repo is a collection of AWESOME things about tuning methods and pretraining-free methods, including papers, code, etc.
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-41-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-30-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 1. **[[]]()** x. x. [[code](x)] 
@@ -14,56 +14,56 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
 ### ICLR 2020
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[Mixout'20]](https://openreview.net/pdf?id=HkgaETNtDB)**  Mixout: Effective Regularization to Finetune Large-scale Pretrained Language. ICLR 2020. [[code](https://github.com/bloodwass/mixout)] 
 
-    *x* 
+    *Cheolhyoung Lee, Kyunghyun Cho, Wanmo Kang.* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[ELR'20]](http://www.openreview.net/pdf?id=B1g8VkHFPH)** Rethinking the Hyperparameters for Fine-tuning. ICLR 2020. [[code](x)] 
 
-    *x* 
+    *Hao Li, Pratik Chaudhari, Hao Yang, Michael Lam, Avinash Ravichandran, Rahul Bhotika, Stefano Soatto.* 
 
 
 ### NeurIPS 2020
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[Co-Tuning'20]](https://proceedings.neurips.cc/paper/2020/file/c8067ad1937f728f51288b3eb986afaa-Paper.pdf)** Co-Tuning for Transfer Learning. NeurIPS 2020. [[code](https://github.com/thuml/CoTuning)] 
 
-    *x* 
+    *Kaichao You, Zhi Kou, Mingsheng Long, Jianmin Wang.* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[Movement Pruning'20]](https://proceedings.neurips.cc/paper/2020/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf)** Movement Pruning: Adaptive Sparsity by Fine-Tuning. NeurIPS 2020. [[code](x)] 
 
-    *x* 
+    *Victor Sanh, Thomas Wolf, Alexander Rush.* 
 
 
 ### ICLR 2021
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[Bert-stable-fine-tuning'21]](https://openreview.net/forum?id=nzpLWnVAyah)** On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines. ICLR 2021. [[code](github uds-lsv/bert-stable-fine-tuning)] [[Slides]](https://iclr.cc/media/iclr-2021/Slides/2558.pdf)
 
-    *x* 
+    *Marius Mosbach, Maksym Andriushchenko, Dietrich Klakow.* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[R3F'21]](https://openreview.net/forum?id=OQ08SN70M1V)** Better Fine-Tuning by Reducing Representational Collapse. ICLR 2021. 
 
-    *x* 
+    *Armen Aghajanyan · Akshat Shrivastava · Anchit Gupta · Naman Goyal · Luke Zettlemoyer · Sonal Gupta.* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[SCL-FT'21]](https://openreview.net/forum?id=cu7IUiOhujH)** Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning. ICLR 2021. [[code](x)] 
 
-    *x* 
+    *Beliz Gunel · Jingfei Du · Alexis Conneau · Veselin Stoyanov.* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[VIBERT'21]](https://openreview.net/forum?id=kvhzKz-_DMF)** Variational Information Bottleneck for Effective Low-Resource Fine-Tuning. ICLR 2021. [[code](github rabeehk/vibert)] 
 
-    *x* 
+    *Rabeeh Karimi Mahabadi · Yonatan Belinkov · James Henderson.* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[RBF'21]](https://openreview.net/forum?id=cO1IH43yUF)** Revisiting Few-sample BERT Fine-tuning. ICLR 2021. [[code](https://github.com/asappresearch/revisit-bert-finetuning)] [[Slides]](https://iclr.cc/media/iclr-2021/Slides/2678.pdf)
 
-    *x* 
+    *Tianyi Zhang · Felix Wu · Arzoo Katiyar · Kilian Weinberger · Yoav Artzi.* 
 
 
 ### ICML 2021
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICML 2021. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICML 2021. [[code](x)] 
 
     *x* 
 
@@ -71,39 +71,39 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
 ### NeurIPS 2021
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. NeurIPS 2021. [[code](x)] 
 
     *x* 
 
@@ -111,27 +111,27 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
 ### ICLR 2022
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICLR 2022. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICLR 2022. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICLR 2022. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICLR 2022. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICLR 2022. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICLR 2022. [[code](x)] 
 
     *x* 
 
@@ -139,19 +139,19 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
 ### ICML 2022
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICML 2022. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICML 2022. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICML 2022. [[code](x)] 
 
     *x* 
 
-1. **[[]]()** x. x. [[code](x)] 
+1. **[[]]()** x. ICML 2022. [[code](x)] 
 
     *x* 
 
