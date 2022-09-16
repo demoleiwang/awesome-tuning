@@ -120,7 +120,7 @@ This repo is a collection of AWESOME things about tuning methods and pretraining
 
     *Da Yu, Saurabh Naik, Arturs Backurs, Sivakanth Gopi, Huseyin A Inan, Gautam Kamath, Janardhan Kulkarni, Yin Tat Lee, Andre Manoel, Lukas Wutschitz, Sergey Yekhanin, Huishuai Zhang.* 
 
-1. **[[]](https://openreview.net/forum?id=f2OYVDyfIB)** Scale Efficiently: Insights from Pretraining and Finetuning Transformers. ICLR 2022. 
+1. **[[SE‘22]](https://openreview.net/forum?id=f2OYVDyfIB)** Scale Efficiently: Insights from Pretraining and Finetuning Transformers. ICLR 2022. 
 
     *Yi Tay, Mostafa Dehghani, Jinfeng Rao, William Fedus, Samira Abnar, Hyung Won Chung, Sharan Narang, Dani Yogatama, Ashish Vaswani, Donald Metzler.* 
 
